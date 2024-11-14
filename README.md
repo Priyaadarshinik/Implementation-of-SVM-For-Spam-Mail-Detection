@@ -26,6 +26,7 @@ Developed by: PRIYAADARSHINI K
 RegisterNumber:  212223240126
 */
 ```
+```
 import pandas as pd
 data=pd.read_csv("//content/spam.csv", encoding="Windows-1252")
 data.head()
